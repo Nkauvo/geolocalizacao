@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GeolocalizacaoApp</string>
+    <string name="title_activity_main">GeolocalizacaoApp</string>
+    <string name="package_name">com.app.geolocalizacao</string>
+    <string name="custom_url_scheme">com.app.geolocalizacao</string>
+</resources>
